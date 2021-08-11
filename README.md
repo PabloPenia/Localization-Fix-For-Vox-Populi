@@ -3,9 +3,6 @@
 
 Fix all wrong data from all Vox Populi MODS on non-english installs.
 
-**Important Note:** This is not a translation mod, only will fix all wrong data from policies, buildings, wonders , tech, civilizations, leaders and units that has been rebalanced by Vox Populi. For spanish users, we have a package with translations, read the "translations" section. 
-
-
 ### Requeriments
 
 * Non-english install of the game
@@ -28,16 +25,15 @@ Fix all wrong data from all Vox Populi MODS on non-english installs.
 
 ## Download and Install
 
+### Releases:
 
-[DOWNLOAD IN GOOGLE DRIVE](https://drive.google.com/drive/folders/1VMnT7lwdIiSi1ZD_-baBpQ7M9xM-OIZw)
+* [V. 3.0.0-DE](https://github.com/PabloPenia/Localization-Fix-For-Vox-Populi/releases/download/V.3.0.0-DE/German.zip) - for **german** installs of Civlizations V.
+* [V. 3.0.0-FR](https://github.com/PabloPenia/Localization-Fix-For-Vox-Populi/releases/download/V.3.0.0-FR/French.zip) - for **french** installs of Civlizations V.
+* [V. 3.0.0-IT](https://github.com/PabloPenia/Localization-Fix-For-Vox-Populi/releases/download/V.3.0.0-IT/Italian.zip) - for **Italian** installs of Civlizations V.
+* [V. 3.0.0-ES](https://github.com/PabloPenia/Localization-Fix-For-Vox-Populi/releases/download/V.3.0.0-ES/Spanish.english.texts.zip) - for **spanish** installs, adds all texts in **english**
+* [V. 3.0.0-ES-LA](https://github.com/PabloPenia/Localization-Fix-For-Vox-Populi/releases/download/V.3.0.0-ES-LA/Spanish.Traduccion.zip) - for **spanish** installs, adds all texts in english and a LOT OF translations for **Español Latino**
 
-### There are 5 diferent packages:
-
-* German (for german installs of the game)
-* French (for french installs of the game)
-* Italian (for Italian installs of the game)
-* Spanish (english texts) --- For spanish installs, adds all texts in english
-* Spanish (traduccion) - For spanish installs, adds all texts in english and a LOT OF translations for Español Latino
+[**See all releases and source code here**](https://github.com/PabloPenia/Localization-Fix-For-Vox-Populi/releases)
 
 ### Install
 
@@ -51,8 +47,6 @@ Fix all wrong data from all Vox Populi MODS on non-english installs.
 
 * Enable every VP mod, then enable (at last) "Localization Fix for Vox Populi".
 
-[Extended information on how to install and play can be found here](https://github.com/devthnote/Localization-Fix-For-Vox-Populi/wiki/How-To-Install)
-
 ## NEW: Translations
 
 Starting V3, Spanish have two packages, one with english texts, and a second with translations (not 100% yet). You can download any of these or both.
@@ -62,6 +56,5 @@ Yes you can install both differents packages for spanish but you CAN'T use both 
 [More Info about Spanish Translation Here](https://github.com/devthnote/Localization-Fix-For-Vox-Populi/wiki/Traducci%C3%B3n-al-Espa%C3%B1ol)
 Want to become a translator for your language? [Read This](https://github.com/devthnote/Localization-Fix-For-Vox-Populi/wiki/Translations)
 
-### [Read Our Wiki for more information](https://github.com/devthnote/Localization-Fix-For-Vox-Populi/wiki)
 ### [CivFanatics Post](https://forums.civfanatics.com/threads/lffvp-localization-fix-for-vox-populi.668926/)
 ### [Vox Populi Main Page](https://civ-5-cbp.fandom.com)
