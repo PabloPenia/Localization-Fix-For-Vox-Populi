@@ -53,8 +53,5 @@ Starting V3, Spanish have two packages, one with english texts, and a second wit
 
 Yes you can install both differents packages for spanish but you CAN'T use both at same time, but installing both you will able to switch quickly between English and Spanish if you need it.
 
-[More Info about Spanish Translation Here](https://github.com/devthnote/Localization-Fix-For-Vox-Populi/wiki/Traducci%C3%B3n-al-Espa%C3%B1ol)
-Want to become a translator for your language? [Read This](https://github.com/devthnote/Localization-Fix-For-Vox-Populi/wiki/Translations)
-
 ### [CivFanatics Post](https://forums.civfanatics.com/threads/lffvp-localization-fix-for-vox-populi.668926/)
 ### [Vox Populi Main Page](https://civ-5-cbp.fandom.com)
