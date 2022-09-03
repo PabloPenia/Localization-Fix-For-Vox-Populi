@@ -1,3 +1,17 @@
+# Deprecated Notice.
+
+LFFVP project has been abandoned for below reasons:
+
+- Is very hard to track Vox Populi changes in each update, I've already made 3 different versions and I had to make a new one in each update, Vox populi github is a mess, there's nothing I can do about this.
+- Since february update, Vox Populi don't work anymore on Linux Machines. System that I use.
+- Last update don't work also for some windows users.
+- For what I can see on VP forums, don't seems that VP team has intentions to fix this issues.
+
+Anyway if you have version 12.1.3 of the mod, this translations will still working:
+
+
+
+
 # Localization fix for vox populi
 **Latest version: v3 Alpha for Vox Populi V12.1.3**
 
