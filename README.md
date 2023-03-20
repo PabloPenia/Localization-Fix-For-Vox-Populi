@@ -1,6 +1,13 @@
-# Deprecated Notice.
+# Notice.
 
-LFFVP project has been abandoned for below reasons:
+## LFFVP v4 beta Coming soon
+
+Besides this project was abandoned on 2021 I keep working on a new solution for both the impossible-to-track mod and make it easier for translators. A year later I have some parts ready to use. It will be released as beta version soon as both a Script and a brand new mod.
+
+- Main script will fix all language issues, and is independant of Vox Populi releases. This means that doen't care how many updates of Vox Populi come out, you can fix everyone with the script.
+- A brand new MOD that translates every mod in vox populi for the five languages supported by Civilizations, although will need some rework for each update.
+
+## old notice of deprecation. Will be removed with beta 4.0 release
 
 - Is very hard to track Vox Populi changes in each update, I've already made 3 different versions and I had to make a new one in each update, Vox populi github is a mess, there's nothing I can do about this.
 - Since february update, Vox Populi don't work anymore on Linux Machines. System that I use.
